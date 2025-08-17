@@ -22,12 +22,7 @@ Tools yang digunakan :
 7. Rekomendasi dengan IBM Granite : Menyiapkan prompt dan mengirim ke model
 
 # Insight and Findings
-Hasil yang didapatkan : 
-- Tabel agregasi penggunaan obat per tahun, per ruangan, dan gabungan
-- Klasifikasi tren penggunaan obat generik dan non-generik per tahun maupun per ruangan
-- Ringkasan singkat yang menyoroti pola utama dari data
-- Rekomendasi berbasis tren yang dapat membantu evaluasi penggunaan obat
-- Line plot dan bar plot analisis tren
+Insight yang ditemukan adalah bahwa tren penggunaan obat berbeda-beda untuk tiap jenis perawatan dan jenis obat, dengan beberapa kategori menunjukkan peningkatan signifikan pada tahun-tahun tertentu, sementara kategori lain mengalami penurunan. Insight ini penting karena dapat menjadi dasar pengambilan keputusan dalam manajemen obat di rumah sakit, seperti perencanaan stok, efisiensi distribusi, dan evaluasi kebutuhan berdasarkan tren aktual.
 
 # Conclusion and Recommendations
 - IBM Granite dapat digunakan untuk mengklasifikasikan tren penggunaan obat, baik berdasarkan jenis perawatan maupun periode waktu.
